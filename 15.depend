@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1689778895 source:c:\users\hp\desktop\work1\15\main.cpp
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	<time.h>
+	<string>
+
